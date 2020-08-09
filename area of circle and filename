@@ -1,0 +1,10 @@
+pi=3.14
+R=float(input("Enter the radius of the circle= "))
+Area=pi*R*R
+print("The Area of the circle is= ",Area)
+
+
+
+file= str(input(" Enter the filename = "))
+E="PYTHON"
+print("The extension of the file is",E)
